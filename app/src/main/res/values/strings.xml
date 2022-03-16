@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Baithi</string>
+    <string name="edtName">Baithi</string>
+    <string name="edtSdt">Baithi</string>
+    <string name="th_m_sdt_v_o_danh_b">Thêm sdt vào danh bạ</string>
+    <string name="h_v_t_n">Họ và tên</string>
+    <string name="nh_p_t_n">Nhập tên</string>
+    <string name="s_i_n_tho_i">Só điện thoại</string>
+    <string name="nh_p_s_i_n_tho_i">Nhập số điẹn thoại</string>
+    <string name="save">Lưu</string>
+    <string name="danh_b">Danh bạ</string>
+    <string name="todo">TODO</string>
+    <string name="textview01">Họ và tên </string>
+</resources>
